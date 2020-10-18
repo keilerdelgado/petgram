@@ -1,0 +1,6 @@
+{
+  "baseUrl": "https://petgram-frontend-ig-clone.keilerdelgado.vercel.app/",
+  "chromeWebSecurity": false,
+  "viewportWidth": 500,
+  "viewportHeight": 800
+}
